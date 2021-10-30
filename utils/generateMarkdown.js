@@ -63,7 +63,7 @@ function generateMarkdown(data) {
   ${data.installation}
   ## Usage
   ${data.usage}  
-  ![Screenshot of Application](screenshot.png)
+  ![Screenshot of Application]("./dist/screenshot.jpg")
   ${renderLicenseSection(data.license)}
   ## Contributing
   ${data.contributing}  

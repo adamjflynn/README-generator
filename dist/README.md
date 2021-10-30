@@ -1,5 +1,5 @@
 # README Generator
-  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+  ![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
   ## Description
   This project is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package
   
@@ -11,13 +11,13 @@
   * [Tests](#tests)
   * [GitHub](#github)
   ## Installation
-  The application will be invoked by using the following command: node index.js
+  The application will be invoked by using the following command: node index.js 
   ## Usage
   The user will answer the questions that are prompted to fill in the README file that will be generated.  
-  ![Screenshot of Application](screenshot.png)
+  ![Screenshot of Application]("./dist/screenshot.jpg")
   ## License
         
-      This project uses the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license.
+      This project uses the [Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0) license.
   ## Contributing
   Here is where contributions to the project will be added  
   ## Tests
